@@ -72,8 +72,8 @@ curl -X POST https://jsonplaceholder.typicode.com/posts \
 }'
 ```
 ## Demo
-You can view a live demo of the project hosted on GitHub Pages (if applicable).
-Live Demo 
+You can view a live demo of the project hosted on GitHub Pages (if applicable).<br>
+[Link Text](https://168abhi.github.io/AWAK_Assignment/)
 
 ## Screenshots
 -![Screenshot (237)](https://github.com/user-attachments/assets/f14e59d1-6a4a-4815-9aa7-fbcc251f5d42)
