@@ -34,7 +34,7 @@ Certainly! Here’s the updated content formatted for a GitHub README file:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/168Abhi/Awak_Assignment1.git
+   git clone https://github.com/168Abhi/AWAK_Assignment.git
    ```
 
 2. **Navigate to the Project Directory:**
@@ -100,5 +100,5 @@ For any inquiries or feedback, please contact me at:
 1. **Clone the Repository:**
 
    ```bash
-   git clone (https://github.com/168Abhi/Awak_Assignment1.git)
+   git clone (https://github.com/168Abhi/AWAK_Assignment.git)
 
