@@ -11,7 +11,7 @@ This project is a simple login web page showcasing my skills in HTML, CSS, and J
 - **Show/Hide Password:** Toggle password visibility.
 - **Loading Spinner:** Displayed during the API call to enhance user experience.
 - **Responsive Design:** Adjusts layout for various screen sizes.
-- **Thank You Message:** Displays personal details and a thank you message to the recruitment team.
+  
 
 ## Technologies Used
 
@@ -73,7 +73,7 @@ curl -X POST https://jsonplaceholder.typicode.com/posts \
 ```
 ## Demo
 You can view a live demo of the project hosted on GitHub Pages (if applicable).<br>
-[Link Text](https://168abhi.github.io/AWAK_Assignment/)
+[Link Demo](https://168abhi.github.io/AWAK_Assignment/)
 
 ## Screenshots
 -![Screenshot (237)](https://github.com/user-attachments/assets/f14e59d1-6a4a-4815-9aa7-fbcc251f5d42)
