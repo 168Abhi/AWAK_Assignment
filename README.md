@@ -71,6 +71,10 @@ curl -X POST https://jsonplaceholder.typicode.com/posts \
   "password": "yourpassword"
 }'
 ```
+## Demo
+You can view a live demo of the project hosted on GitHub Pages (if applicable).
+Live Demo 
+
 ## Screenshots
 -![Screenshot (237)](https://github.com/user-attachments/assets/f14e59d1-6a4a-4815-9aa7-fbcc251f5d42)
 -![Screenshot (236)](https://github.com/user-attachments/assets/6d348b86-b969-4b2b-b56b-ae98cd61153a)
