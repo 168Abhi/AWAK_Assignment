@@ -75,14 +75,12 @@ curl -X POST https://jsonplaceholder.typicode.com/posts \
 You can view a live demo of the project hosted on GitHub Pages (if applicable).<br>
 [Link Demo](https://168abhi.github.io/AWAK_Assignment/)
 
-## Screenshots
--![Screenshot (237)](https://github.com/user-attachments/assets/f14e59d1-6a4a-4815-9aa7-fbcc251f5d42)
--![Screenshot (236)](https://github.com/user-attachments/assets/6d348b86-b969-4b2b-b56b-ae98cd61153a)
--![Screenshot (235)](https://github.com/user-attachments/assets/fb940eea-cdfe-46da-8a9f-c2b09ba1f09f)
--![Screenshot (234)](https://github.com/user-attachments/assets/c6063f1d-fdda-4b53-87bd-6559e58e20a3)
--![Screenshot (233)](https://github.com/user-attachments/assets/49c32268-b080-4e11-9474-d26bedcc2f3c)
-
-
+## Screenshot
+![Screenshot (236)](https://github.com/user-attachments/assets/93c60f87-1c6a-4624-b0f1-f198d90b0320)
+![Screenshot (234)](https://github.com/user-attachments/assets/48ae56d8-f1d0-433a-afbd-3820a89b03bf)
+![Screenshot (233)](https://github.com/user-attachments/assets/4c7b4b9a-a37c-4823-99bb-f2b92d910024)
+![Screenshot (237)](https://github.com/user-attachments/assets/c6f7a4df-9a93-45b7-b79d-bca8b94ceab2)
+![Screenshot (235)](https://github.com/user-attachments/assets/bccbb6b7-7897-4a7d-9a60-45142cf672c3)
 
 ## Contributing
 
